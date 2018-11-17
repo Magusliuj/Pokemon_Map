@@ -5,7 +5,6 @@
 ![](./screenshot.png)
 
 ## Demo
-http://hackjutsu.com/pokemongo-map-poc-demo/
 >Temporarily disabled to save my budget on AWS ;)
 
 ## Data source
